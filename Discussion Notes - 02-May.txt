@@ -1,0 +1,10 @@
+# Useless Columns  ( Subjective Data or Data that does not impact Target) 
+# Single Value Data 
+# More than 5% Null Values 
+# Unique Identifier 
+# Highly Correlated Values 
+
+
+
+#last_pymnt_d > which need to be put in deleted column under the category of highly correlated 
+# last_credit_pull_d
