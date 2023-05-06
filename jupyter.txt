@@ -1,1 +1,1 @@
-jupyter notebook --notebook-dir=E:\Laptop\AI_ML\Workspace\Upgrad\LendingClubCaseStudy\LoanClubCaseStudyRepo
+jupyter notebook --notebook-dir=C:\Users\Gurpreet Singh\Desktop\Upgrad\LoanClubCaseStudyRepo
