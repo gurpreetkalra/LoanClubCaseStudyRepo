@@ -1,0 +1,1 @@
+jupyter notebook --notebook-dir=E:\Laptop\AI_ML\Workspace\Upgrad\LendingClubCaseStudy\LoanClubCaseStudyRepo
